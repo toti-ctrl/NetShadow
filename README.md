@@ -1,7 +1,5 @@
 📄 README.md para NetShadow
 markdown
-Copiar
-Editar
 <h1 align="center">🌐 NetShadow</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
