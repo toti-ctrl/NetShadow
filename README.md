@@ -32,15 +32,7 @@ markdown
 
 ---
 
-## 📸 Capturas (demo)
-
-> Añade aquí una captura con `netshadow.py` corriendo:
-```bash
-python netshadow.py --username pepe
 ⚙️ Instalación
-bash
-Copiar
-Editar
 # Clona el repo
 git clone git@github.com:toti-ctrl/NetShadow.git
 cd NetShadow
@@ -51,19 +43,16 @@ source venv/bin/activate
 
 # Instala dependencias
 pip install -r requirements.txt
+
 🧑‍💻 Uso
-bash
-Copiar
-Editar
 python netshadow.py --username <usuario> [opciones]
 
 Opciones:
   --emails           Intenta buscar Gmail vinculados
   --platforms all    Escanea en todas las plataformas soportadas
   --json             Exporta los resultados en formato JSON
+
 📂 Estructura del Proyecto
-Copiar
-Editar
 NetShadow/
 ├── netshadow.py
 ├── modules/
@@ -79,10 +68,6 @@ Este proyecto está bajo la licencia MIT. Libre de usar, compartir y modificar.
 🤝 Créditos
 Desarrollado por Toti Ctrl con ❤️ para la comunidad hacker de habla hispana.
 
-yaml
-Copiar
-Editar
-
 ---
 
 ### ✅ ¿Qué debes hacer ahora?
@@ -91,13 +76,3 @@ Editar
 
 ```bash
 nano README.md
-Pega el contenido anterior.
-
-Guarda y haz:
-
-bash
-Copiar
-Editar
-git add README.md
-git commit -m "Añadido README visual"
-git push
